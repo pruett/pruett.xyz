@@ -1,0 +1,9 @@
+.container {
+  min-height: 100vh;
+}
+
+.hero {
+  background: #c4c4c4;
+  padding: 1rem;
+  color: #393939;
+}
